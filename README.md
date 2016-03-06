@@ -1,2 +1,2 @@
-# a-la-minute
+# à la minute
 restaurant phone paging
